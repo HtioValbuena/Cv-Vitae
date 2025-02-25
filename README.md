@@ -1,2 +1,2 @@
 # Curricullum
-Curricullum
+CurricullumVit
