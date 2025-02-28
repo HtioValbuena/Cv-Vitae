@@ -1,2 +1,2 @@
 # Curricullum
-CurricullumVit
+CurricullumVit con HTML y CSS
